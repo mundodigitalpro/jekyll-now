@@ -1,10 +1,18 @@
 ---
 layout: post
-title: You're up and running!
+title: 'Hola, ¿ que tal ?'
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hola, ¿ que tal ? 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Este es mi "Hello World" al mundo de la programación.
+Con ésta presentación comienzo desde este blog dando mis primeros pasos en este apasionante mundo de la programación. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+En est blog pretendo tomar notas de lo que voy aprendiendo y de todo lo que veo útil e interesante y que más tarde o más temprano me puede servir para aprender o recordar algo,  esos 
+"trozos" de código o ese link interesante. Si además con esto puedo aportar algo útil a alguien más pues mucho mejor. 
+
+Aprender y compartir conocimiento.
+
+
+
