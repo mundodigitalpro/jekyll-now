@@ -41,6 +41,9 @@ https://github.com/phillipjohnson/text-adventure-tut
 
 https://github.com/iamjawa/zork-py - Zork en Python
 
+https://github.com/Apress/make-your-own-python-text-adventure
+
+
 Otros Links: 
 
 http://letstalkdata.com/2014/08/how-to-write-a-text-adventure-in-python/
