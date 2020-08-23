@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Recopilando información sobre juegos de solo texto
 
@@ -7,7 +7,7 @@ Desde que empecé a aprender programación queria poner en practica mis conocimi
 
 En este post voy a ir plasmando los recursos que ido recopilando.
 
-Youtube:
+## Youtube:
 
 [Programando un juego RPG en Python - Código Morsa (Español)](https://www.youtube.com/watch?v=hJUB7alJWvo&list=PLihI9s9wwCPQtd4qLlIyZEagygt6jGNZ8)
 
@@ -32,3 +32,17 @@ Youtube:
 [Super Simple Text Adventure -  Learn to Code GCSE (Inglés) ](https://www.youtube.com/watch?v=5a1KJPHPImc)
 
 [PROGRAMAR JUEGOS SENCILLOS 🕹️ ► PYTHON [ EPISODIO 1 - Pygame ] (Español)](https://www.youtube.com/watch?v=7iIxjiybR6E&list=PLG8UtYUFOQj7q7Ni5sOxxYdlR-ZqbFogz)
+
+Github:
+
+https://github.com/smcameron/smcamerons-python-adventure - Visto en Reddit 
+
+https://github.com/phillipjohnson/text-adventure-tut
+
+https://github.com/iamjawa/zork-py - Zork en Python
+
+Otros Links: 
+
+http://letstalkdata.com/2014/08/how-to-write-a-text-adventure-in-python/
+
+
