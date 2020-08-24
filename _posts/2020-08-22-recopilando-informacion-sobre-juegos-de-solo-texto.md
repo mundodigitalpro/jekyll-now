@@ -33,7 +33,7 @@ En este post voy a ir plasmando los recursos que ido recopilando.
 
 [PROGRAMAR JUEGOS SENCILLOS 🕹️ ► PYTHON [ EPISODIO 1 - Pygame ] (Español)](https://www.youtube.com/watch?v=7iIxjiybR6E&list=PLG8UtYUFOQj7q7Ni5sOxxYdlR-ZqbFogz)
 
-Github:
+## Github:
 
 [https://github.com/smcameron/smcamerons-python-adventure](https://github.com/smcameron/smcamerons-python-adventure) - Visto en Reddit 
 
