@@ -35,17 +35,15 @@ En este post voy a ir plasmando los recursos que ido recopilando.
 
 Github:
 
-https://github.com/smcameron/smcamerons-python-adventure - Visto en Reddit 
+[https://github.com/smcameron/smcamerons-python-adventure](https://github.com/smcameron/smcamerons-python-adventure) - Visto en Reddit 
 
-https://github.com/phillipjohnson/text-adventure-tut
+[https://github.com/phillipjohnson/text-adventure-tut](https://github.com/phillipjohnson/text-adventure-tut)
 
-https://github.com/iamjawa/zork-py - Zork en Python
+[https://github.com/iamjawa](https://github.com/iamjawa) - El juego Zork en Python
 
-https://github.com/Apress/make-your-own-python-text-adventure
+[https://github.com/Apress/make-your-own-python-text-adventure](https://github.com/Apress/make-your-own-python-text-adventure) - Github del mismo libro Make your own python text adventure
 
 
 Otros Links: 
 
 http://letstalkdata.com/2014/08/how-to-write-a-text-adventure-in-python/
-
-
