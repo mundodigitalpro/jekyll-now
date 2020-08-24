@@ -49,4 +49,6 @@ En este post voy a ir plasmando los recursos que ido recopilando.
 
 Otros Links: 
 
-http://letstalkdata.com/2014/08/how-to-write-a-text-adventure-in-python/
+[http://rickadams.org/adventure/e_downloads.html](http://rickadams.org/adventure/e_downloads.html)
+
+[http://letstalkdata.com/2014/08/how-to-write-a-text-adventure-in-python](http://letstalkdata.com/2014/08/how-to-write-a-text-adventure-in-python)/
