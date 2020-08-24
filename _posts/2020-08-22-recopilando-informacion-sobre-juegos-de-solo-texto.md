@@ -39,6 +39,8 @@ En este post voy a ir plasmando los recursos que ido recopilando.
 
 [https://github.com/asweigart/PythonStdioGames](https://github.com/asweigart/PythonStdioGames)
 
+[https://github.com/asweigart/textadventuredemo](https://github.com/asweigart/textadventuredemo)
+
 [https://github.com/smcameron/smcamerons-python-adventure](https://github.com/smcameron/smcamerons-python-adventure) - Visto en Reddit 
 
 [https://github.com/phillipjohnson/text-adventure-tut](https://github.com/phillipjohnson/text-adventure-tut)
@@ -46,6 +48,8 @@ En este post voy a ir plasmando los recursos que ido recopilando.
 [https://github.com/iamjawa](https://github.com/iamjawa) - El juego Zork en Python
 
 [https://github.com/Apress/make-your-own-python-text-adventure](https://github.com/Apress/make-your-own-python-text-adventure) - Github del mismo libro Make your own python text adventure
+
+[https://github.com/puanyi/make-your-own-python-text-adventure](https://github.com/puanyi/make-your-own-python-text-adventure)
 
 [https://github.com/phillipjohnson/text-adventure-tut](https://github.com/phillipjohnson/text-adventure-tut)
 
@@ -68,6 +72,16 @@ En este post voy a ir plasmando los recursos que ido recopilando.
 [https://github.com/shawnantonucci/Python-Text-Adventure](https://github.com/shawnantonucci/Python-Text-Adventure)
 
 [https://github.com/shellyduggal/text_adventure](https://github.com/shellyduggal/text_adventure)
+
+[https://github.com/allanburleson/python-adventure-game](https://github.com/allanburleson/python-adventure-game)
+
+[https://github.com/sdevmandujano/Python-Text-Adventure](https://github.com/sdevmandujano/Python-Text-Adventure)
+[https://github.com/dcbriccetti/python-text-adventure](https://github.com/dcbriccetti/python-text-adventure)
+
+[https://gist.github.com/dougmcnally/06fa0533a893b6e85222bb4f4645940f](https://gist.github.com/dougmcnally/06fa0533a893b6e85222bb4f4645940f)
+
+[https://github.com/tidus747/Tutoriales_juegos_Python](https://github.com/tidus747/Tutoriales_juegos_Python)
+
 
 Otros Links: 
 
