@@ -37,6 +37,8 @@ En este post voy a ir plasmando los recursos que ido recopilando.
 
 [https://github.com/brandon-rhodes/python-adventure/tree/master/adventure](https://github.com/brandon-rhodes/python-adventure/tree/master/adventure)
 
+[https://github.com/asweigart/PythonStdioGames](https://github.com/asweigart/PythonStdioGames)
+
 [https://github.com/smcameron/smcamerons-python-adventure](https://github.com/smcameron/smcamerons-python-adventure) - Visto en Reddit 
 
 [https://github.com/phillipjohnson/text-adventure-tut](https://github.com/phillipjohnson/text-adventure-tut)
@@ -47,7 +49,29 @@ En este post voy a ir plasmando los recursos que ido recopilando.
 
 [https://github.com/phillipjohnson/text-adventure-tut](https://github.com/phillipjohnson/text-adventure-tut)
 
+[https://github.com/gever/bwx-adventure](https://github.com/gever/bwx-adventure)
+
+[https://github.com/Transcriptase/Game](https://github.com/Transcriptase/Game)
+
+[https://github.com/code-newbies/python-thursday-adventure](https://github.com/code-newbies/python-thursday-adventure)
+
+[https://github.com/JosephDelgadillo/python_text_rpg](https://github.com/JosephDelgadillo/python_text_rpg)
+
+[https://github.com/davesque/go.py](https://github.com/davesque/go.py)
+
+[https://github.com/wallacezone/little-dungeon](https://github.com/wallacezone/little-dungeon)
+
+[https://github.com/colebrooke/adventure](https://github.com/colebrooke/adventure)
+
+[https://github.com/adverseengineer/python-text-adventure](https://github.com/adverseengineer/python-text-adventure)
+
+[https://github.com/shawnantonucci/Python-Text-Adventure](https://github.com/shawnantonucci/Python-Text-Adventure)
+
+[https://github.com/shellyduggal/text_adventure](https://github.com/shellyduggal/text_adventure)
+
 Otros Links: 
+
+[https://www.derekshidler.com/how-to-create-a-text-based-adventure-and-quiz-game-in-python/](https://www.derekshidler.com/how-to-create-a-text-based-adventure-and-quiz-game-in-python/)
 
 [http://rickadams.org/adventure/e_downloads.html](http://rickadams.org/adventure/e_downloads.html)
 
