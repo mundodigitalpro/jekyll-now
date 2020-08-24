@@ -89,6 +89,9 @@ En este post voy a ir plasmando los recursos que ido recopilando.
 [https://github.com/Dogeek/rpg-text](https://github.com/Dogeek/rpg-text)
 
 [https://github.com/D4rk3l/interactive-text-games-hacktoberfest/blob/master/text-based-adventure/text-based-adventure.py](https://github.com/D4rk3l/interactive-text-games-hacktoberfest/blob/master/text-based-adventure/text-based-adventure.py)
+[https://github.com/tanishqvyas/TEXT-BASED-POKEMON-NAME-GUESSING-GAME/blob/master/guess.py](https://github.com/tanishqvyas/TEXT-BASED-POKEMON-NAME-GUESSING-GAME/blob/master/guess.py)
+
+[https://github.com/becdot/adventures-in-text](https://github.com/becdot/adventures-in-text)
 
 
 Otros Links: 
