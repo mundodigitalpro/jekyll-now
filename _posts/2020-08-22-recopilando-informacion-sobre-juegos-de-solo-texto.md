@@ -35,6 +35,8 @@ En este post voy a ir plasmando los recursos que ido recopilando.
 
 ## Github:
 
+[https://github.com/brandon-rhodes/python-adventure/tree/master/adventure](https://github.com/brandon-rhodes/python-adventure/tree/master/adventure)
+
 [https://github.com/smcameron/smcamerons-python-adventure](https://github.com/smcameron/smcamerons-python-adventure) - Visto en Reddit 
 
 [https://github.com/phillipjohnson/text-adventure-tut](https://github.com/phillipjohnson/text-adventure-tut)
@@ -43,6 +45,7 @@ En este post voy a ir plasmando los recursos que ido recopilando.
 
 [https://github.com/Apress/make-your-own-python-text-adventure](https://github.com/Apress/make-your-own-python-text-adventure) - Github del mismo libro Make your own python text adventure
 
+[https://github.com/phillipjohnson/text-adventure-tut](https://github.com/phillipjohnson/text-adventure-tut)
 
 Otros Links: 
 
