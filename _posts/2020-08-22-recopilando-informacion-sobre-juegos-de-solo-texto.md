@@ -35,6 +35,8 @@ En este post voy a ir plasmando los recursos que ido recopilando.
 
 ## Github:
 
+[https://github.com/soapy1/TextAdventure](https://github.com/soapy1/TextAdventure)
+
 [https://github.com/brandon-rhodes/python-adventure/tree/master/adventure](https://github.com/brandon-rhodes/python-adventure/tree/master/adventure)
 
 [https://github.com/asweigart/PythonStdioGames](https://github.com/asweigart/PythonStdioGames)
@@ -81,6 +83,12 @@ En este post voy a ir plasmando los recursos que ido recopilando.
 [https://gist.github.com/dougmcnally/06fa0533a893b6e85222bb4f4645940f](https://gist.github.com/dougmcnally/06fa0533a893b6e85222bb4f4645940f)
 
 [https://github.com/tidus747/Tutoriales_juegos_Python](https://github.com/tidus747/Tutoriales_juegos_Python)
+
+[https://github.com/carpedm20/text-based-game-rl-tensorflow](https://github.com/carpedm20/text-based-game-rl-tensorflow)
+
+[https://github.com/Dogeek/rpg-text](https://github.com/Dogeek/rpg-text)
+
+[https://github.com/D4rk3l/interactive-text-games-hacktoberfest/blob/master/text-based-adventure/text-based-adventure.py](https://github.com/D4rk3l/interactive-text-games-hacktoberfest/blob/master/text-based-adventure/text-based-adventure.py)
 
 
 Otros Links: 
