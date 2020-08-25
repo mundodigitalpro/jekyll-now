@@ -9,6 +9,12 @@ En este post voy a ir plasmando los recursos que ido recopilando.
 
 ## Youtube:
 
+[Simple Python Project | Text-Based Adventure Game: Time Unraveled](https://www.youtube.com/watch?v=ypNFNr72Xe8)
+
+[Advanced Python Text Adventure - Part 1 - Classes (A Level)](https://www.youtube.com/watch?v=VxhZZHnig8U&list=PLJPiff845eg9uQ5zFns8yrNLEimO4eDC8)
+
+[Super Simple Text Adventure](https://www.youtube.com/playlist?list=PLJPiff845eg8hBMJNo6Y2Yo7LKAB8oedh)
+
 [Programando un juego RPG en Python - Código Morsa (Español)](https://www.youtube.com/watch?v=hJUB7alJWvo&list=PLihI9s9wwCPQtd4qLlIyZEagygt6jGNZ8)
 
 [Programar en Python es como un juego - Manuel Gonzalez (Español)](https://www.youtube.com/channel/UCQLWbxZbgftDIhw21i6q_OA/featured)
