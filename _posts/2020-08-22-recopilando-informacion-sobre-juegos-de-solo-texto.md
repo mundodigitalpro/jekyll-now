@@ -39,6 +39,9 @@ En este post voy a ir plasmando los recursos que ido recopilando.
 
 [PROGRAMAR JUEGOS SENCILLOS 🕹️ ► PYTHON [ EPISODIO 1 - Pygame ] (Español)](https://www.youtube.com/watch?v=7iIxjiybR6E&list=PLG8UtYUFOQj7q7Ni5sOxxYdlR-ZqbFogz)
 
+
+[[Python for Beginner Developers] Adventure game code-along! Absolute basics of coding](https://www.youtube.com/watch?v=BfiMU2GwVNY&list=PLnCNbWvyFzoH5Csr7rq2lU4ITviOB-fAT&index=11&t=4974s)
+
 ## Github:
 
 [https://github.com/soapy1/TextAdventure](https://github.com/soapy1/TextAdventure)
@@ -99,6 +102,7 @@ En este post voy a ir plasmando los recursos que ido recopilando.
 
 [https://github.com/becdot/adventures-in-text](https://github.com/becdot/adventures-in-text)
 
+[https://github.com/vencabot/intro_to_python/tree/master/total_beginner_projects/adventure_example](https://github.com/vencabot/intro_to_python/tree/master/total_beginner_projects/adventure_example)
 
 Otros Links: 
 
