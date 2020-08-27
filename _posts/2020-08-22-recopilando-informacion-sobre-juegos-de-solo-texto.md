@@ -7,6 +7,26 @@ Desde que empecé a aprender programación queria poner en practica mis conocimi
 
 En este post voy a ir plasmando los recursos que ido recopilando.
 
+## Stackoverflow:
+
+Haciendo un inventario : 
+
+https://stackoverflow.com/questions/8273619/im-making-a-python-text-adventure-need-help-making-an-inventory
+
+https://stackoverflow.com/questions/32486754/i-want-to-make-an-inventory-system-for-my-game-in-python-v-3-4-3
+
+https://stackoverflow.com/questions/44955196/difficulty-with-inventory-and-room-system-in-a-text-based-game
+
+https://stackoverflow.com/questions/45571588/python-3-how-to-remove-items-from-an-inventory-in-a-text-based-game
+
+https://stackoverflow.com/questions/19759646/text-based-adventure-game-inventory-problems-python
+
+https://stackoverflow.com/questions/55197410/item-class-in-text-adventure-game-python
+
+https://stackoverflow.com/questions/49906366/checking-an-inventory-for-a-certain-item-and-returning-true-in-a-python-text-adv
+
+
+
 ## Youtube:
 
 [Simple Python Project | Text-Based Adventure Game: Time Unraveled](https://www.youtube.com/watch?v=ypNFNr72Xe8)
