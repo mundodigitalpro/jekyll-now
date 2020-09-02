@@ -29,6 +29,8 @@ https://stackoverflow.com/questions/49906366/checking-an-inventory-for-a-certain
 
 ## Youtube:
 
+[Python Pokemon - Python Class Tutorial for Beginners](https://www.youtube.com/watch?v=Pbs6jQZrZA4)
+
 [Simple Python Project | Text-Based Adventure Game: Time Unraveled](https://www.youtube.com/watch?v=ypNFNr72Xe8)
 
 [Advanced Python Text Adventure - Part 1 - Classes (A Level)](https://www.youtube.com/watch?v=VxhZZHnig8U&list=PLJPiff845eg9uQ5zFns8yrNLEimO4eDC8)
