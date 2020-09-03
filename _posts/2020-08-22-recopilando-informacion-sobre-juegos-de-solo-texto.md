@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## Recopilando información sobre juegos de solo texto
+## Recopilatorio sobre como programar juegos de solo texto en Python
 
 Desde que empecé a aprender programación queria poner en practica mis conocimientos y comencé a interesarme por hacer un juego , concretamente un juego de solo texto. Hacer un juego de solo texto lo veo como una forma sencilla de poner en practica conocimientos de programación sin complicaciones.
 
