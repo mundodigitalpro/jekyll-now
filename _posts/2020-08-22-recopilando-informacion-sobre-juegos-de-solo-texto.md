@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## Recopilatorio sobre como programar juegos de solo texto en Python
+## Recopilatorio sobre como programar juegos de solo texto en Python & Java
 
 Desde que empecé a aprender programación queria poner en practica mis conocimientos y comencé a interesarme por hacer un juego , concretamente un juego de solo texto. Hacer un juego de solo texto lo veo como una forma sencilla de poner en practica conocimientos de programación sin complicaciones.
 
@@ -61,8 +61,9 @@ https://stackoverflow.com/questions/49906366/checking-an-inventory-for-a-certain
 
 [PROGRAMAR JUEGOS SENCILLOS 🕹️ ► PYTHON [ EPISODIO 1 - Pygame ] (Español)](https://www.youtube.com/watch?v=7iIxjiybR6E&list=PLG8UtYUFOQj7q7Ni5sOxxYdlR-ZqbFogz)
 
-
 [[Python for Beginner Developers] Adventure game code-along! Absolute basics of coding](https://www.youtube.com/watch?v=BfiMU2GwVNY&list=PLnCNbWvyFzoH5Csr7rq2lU4ITviOB-fAT&index=11&t=4974s)
+
+[Programming a Java Text Aventure](https://www.youtube.com/playlist?list=PLZHx5heVfgEvT5BD8TgLmGrr-V64pX7MD)
 
 ## Github:
 
